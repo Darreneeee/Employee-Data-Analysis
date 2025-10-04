@@ -9,7 +9,7 @@ Explored these questions:
 
 Insights obtained:
 - Majority(77%) of employees have a Bachelor's degree
-- There is no concrete correlation between the subject's exprience in the current domain and their salary
+- Non-linear correlation between the employee's current experience in domain and salary; tier 2 & 3 salaries favoured by longer domain experience
 - Majority of the employees are male
 
 Previews of Charts:
