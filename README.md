@@ -12,3 +12,4 @@ Insights obtained:
 - There is no concrete correlation between the subject's exprience in the current domain and their salary
 - Majority of the employees are male
 
+<img width="723" height="528" alt="Educational_Qualification_Distribution" src="https://github.com/user-attachments/assets/56240146-9972-4eb0-bd8f-bba63fb34d09" />
