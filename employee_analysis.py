@@ -72,4 +72,10 @@ def q4():
 
 if __name__ == "__main__":
     df = pd.read_csv("Employee.csv")
-    q3()
+    #q1()
+    #q2()
+    #q3()
+    #q4()
+
+
+
